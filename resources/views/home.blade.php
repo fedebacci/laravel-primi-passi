@@ -12,6 +12,7 @@
         {{ $info_test }}
     </p>
 
-    <a href="/about" target="_blank">About</a>
+    <!-- <a href="/about" target="_blank">About</a> -->
+    <a href="{{ route("about") }}">About</a>
 </body>
 </html>

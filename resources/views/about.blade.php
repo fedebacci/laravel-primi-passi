@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>About us</h1>
+    <a href="{{ route("home") }}">Torna alla home</a>
 </body>
 </html>
